@@ -4,7 +4,7 @@ bio:                ''
 description:        " "
 locale:             en_US
 baseurl: "/gsoc_heat" # the subpath of your site, e.g. /blog
-url: "http://vegotube.me/" # the base hostname & protocol for your site
+url: "https://kulkarni-rajas.github.io/gsoc_site/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
