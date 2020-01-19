@@ -36,7 +36,7 @@ We will be sure to nerd you out with the info about the projects.
 
 ### [IntReview](https://github.com/arc9693/IntReview)
 
-📒 An app that records various interview responses and publicise them. Hosted at [Link](https://archana9693.pythonanywhere.com/)
+An app that records various interview responses and publicise them.
 <br/>
 Language: Python
 <br/>
@@ -60,7 +60,7 @@ Language: Python
 
 ### [Instagram](https://github.com/lugnitdgp/Instagram)
 
-The name is enough!
+A webapp somewhat like Instagram
 <br/>
 Language: Python
 
@@ -80,6 +80,5 @@ Language: Javascript
 
 ### [Metal UI](https://github.com/lugnitdgp/Metal_UI)
 
-https://github.com/lugnitdgp/Metal_UI
 <br/>
 Language: CSS
