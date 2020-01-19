@@ -1,0 +1,122 @@
+---
+layout: null
+title: GSoC Heat 4.0
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+priority: 1.0
+lastmod: 2017-11-02
+changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	{% include head.html %}
+
+
+</head>
+
+<body class="is-loading">
+
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
+
+		<!-- Intro -->
+		<div id="intro">
+			<h1>GSoC Heat 4.0</h1>
+			<p>Simulation of Google Summer of Code</p>
+			<ul class="actions">
+				<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+			</ul>
+		</div>
+
+		<!-- Header -->
+		<header id="header">
+			<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+		</header>
+
+		<!-- Nav -->
+		<nav id="nav">
+
+			{% include nav.html %}
+
+		</nav>
+
+		<!-- Main -->
+		<div id="main">
+			<!-- Featured Post -->
+			<article class="post featured">
+				<header class="major">
+					<h2><a href="#">GSoC Heat 4.0</a></h2>
+					<h3>About</h3>
+						<p>As an Arabic proverb goes - "It is better to learn from the experienced than the learned".
+							With this thought, the GNU Linux Users' Group and NITDgpOs presents GSoC Heat 4.0 where you can get an insight into the biggest forum of Open Source from the people who have aced it themselves.
+							This begins with an analysis of the procedure to apply for GSoC and the requisites to boost your chances.</p>
+				</header>
+				<a href="#" class="image main"><img src="assets/css/images/stickgsoc.png" alt="" /></a>
+				<!-- <p>NIT-dgp is an Open Source Community started by some GSoC 2016 students of NIT Durgapur to spread the
+					idea of Open Source among students and help them contribute to Open Source. We welcome newcomers who
+					are completely new to open source and help them start their Open Source Journey.</p> -->
+
+					<p>Start by looking at the repositories <a href="github.com/lugnitdgp">Here. </a>Select a repo that you find interesting
+					and pickup one of the issues that seems suitable. But even before that you can join our
+					#NIT-dgp/general gitter channel and talk with us. So just drop by and say a Hi!</p>
+				<p>If you are a newcomer we recommend choosing a difficulty/newcomer issue to get started.</p>
+
+			</article>
+
+			<!-- Posts
+			<section class="posts">
+				{% for post in site.posts limit:3 %}
+				{% assign mod3 = forloop.index | modulo: 3 %}
+				<article>
+					<header>
+						<span class="date">{{ post.date | date_to_string }}</span>
+						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+					</header>
+					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
+							alt="" /></a>
+					<p>{{ post.excerpt }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+					</ul>
+				</article>
+				{% if mod3 == 0 %}
+				<article>
+					<header>
+						<h2><a href="#">Sponsored</a></h2>
+					</header>
+
+				</article>
+				{% endif %}
+				{% endfor %} -->
+
+			</section>
+
+			<!-- Footer -->
+			<footer>
+				<!-- <ul class="actions">
+					<li><a href="{{ "/blog/" | absolute_url }}" class="button">Resources</a></li>
+				</ul> -->
+			</footer>
+
+		</div>
+
+		<!-- Footer -->
+		{% include foot.html %}
+
+	</div>
+
+	<!-- Scripts -->
+	{% include scripts-main.html %}
+	{% include tracking.html %}
+
+</body>
+
+</html>
