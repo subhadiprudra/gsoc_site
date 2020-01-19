@@ -3,8 +3,8 @@ title:              GSoC Heat 4.0
 bio:                ''
 description:        " "
 locale:             en_US
-baseurl: "gsoc_site" # the subpath of your site, e.g. /blog
-url: "https://kulkarni-rajas.github.io" # the base hostname & protocol for your site
+
+url: "https://kulkarni-rajas.github.io/gsoc_site" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
