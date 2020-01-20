@@ -9,7 +9,7 @@ sitemap:
 
 
 ## **Timeline**
-![image](/images/Heat20.png){:class="img-responsive"}
+<img class="img-responsive" src="/images/Heat20.png" alt="" />
 
 ## **Contest Rules and Guidelines**
 1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
@@ -54,7 +54,10 @@ Language: Python
 
 ### [ReviewBook](https://github.com/lugnitdgp/ReviewBook)
 
-Write Reviews about your favourite Movies
+A social media app for movies, games and tv series reviews
+The app allows you to review movies, games and tv shows. It allows you to follow users and your feed shows the latest reviews by users.It has a login feature.
+
+
 <br/>
 Language: Python
 
@@ -80,5 +83,6 @@ Language: Javascript
 
 ### [Metal UI](https://github.com/lugnitdgp/Metal_UI)
 
+A modern, responsive CSS framework built for developers. 
 <br/>
 Language: CSS
