@@ -24,7 +24,7 @@ sitemap:
 Find the Proposal template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
 
 ## **Proposal Submission**
-Submit your proposals [in this google form](https://goo.gl/forms/oLqAgP0Ou94xdiTY2)
+Submit your proposals [in this google form](https://forms.gle/MepnUwYGRxWb3nak6)
 
 ## **Projects**
 
