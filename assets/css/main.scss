@@ -69,3 +69,8 @@ $background_image: '{{site.background_image}}';
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+
+	.responsive {
+		width: 100%;
+		height: auto;
+	  }
