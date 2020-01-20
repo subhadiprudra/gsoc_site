@@ -9,7 +9,7 @@ sitemap:
 
 
 ## **Timeline**
-![image](/images/Heat20.png)
+![image](/images/Heat20.png){:class="img-responsive"}
 
 ## **Contest Rules and Guidelines**
 1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
