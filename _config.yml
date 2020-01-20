@@ -3,7 +3,7 @@ title:              GSoC Heat 4.0
 bio:                ''
 description:        " "
 locale:             en_US
-baseurl: "/gsoc_site" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gsocheat.nitdgplug.org/" # the base hostname & protocol for your site
 
 
@@ -66,7 +66,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: http://vegotube.me/gsoc_heat/
+    base_url: https://gsocheat.nitdgplug.org
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
