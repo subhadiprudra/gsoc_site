@@ -3,7 +3,8 @@ title:              GSoC Heat 4.0
 bio:                ''
 description:        " "
 locale:             en_US
-url: "http://gsocheat.nitdgplug.org" # the base hostname & protocol for your site
+baseurl: "/gsoc_site" # the subpath of your site, e.g. /blog
+url: "https://gsocheat.nitdgplug.org/" # the base hostname & protocol for your site
 
 
 
