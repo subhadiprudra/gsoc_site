@@ -44,7 +44,8 @@ Language: Python
 ### [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 
 Download Videos from Youtube
-Language: Pyhton JavaScript
+
+Language: Python JavaScript
 
 ### [Codeara](https://github.com/lugnitdgp/Codeara)
 
