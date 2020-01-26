@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Candidates for GSoC Heat 4.0
+title: Selected Proposals for GSoC Heat 4.0
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -8,7 +8,7 @@ sitemap:
 ---
 
 
-## **List of Candidates Selected for GSoC Heat 4.0**
+## **List of Selected Proposals for GSoC Heat 4.0**
 
 * [Harshit Surana](https://docs.google.com/document/d/1mnLn1lTst-NLVpm2mL08m7FaOXQiAncGplnovH6xAp4/edit?usp=sharing) @ [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 * [Nikhil Kumar](https://docs.google.com/document/d/1DqeHaYHZNTLtfFQqymjbHN8nWg-UTyAAIhgg4EUlFvE/edit?usp=sharing) @ [IntReview](https://github.com/arc9693/IntReview)
