@@ -1,8 +1,8 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">GSoC Heat</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Projects</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Resources</a></li>
-  <!-- <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Call for Maintainers</a></li> -->
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/projects/" | absolute_url }}">Projects</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/resources/" | absolute_url }}">Resources</a></li>
+  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/selected/" | absolute_url }}">Selected Candidates</a></li>
 </ul>
 
 <ul class="icons">
