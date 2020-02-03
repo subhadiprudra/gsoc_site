@@ -15,7 +15,7 @@ sitemap:
 * [Rishab Dugar](https://docs.google.com/document/d/1-K-WBFiNcLpGLF872t8zR26C5L_QJWc-vcxpQkUKowk/edit?usp=drivesdk) @ [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 * [Arnab Bhakta](https://docs.google.com/document/d/10jvqsbwNt74su2aKPyZDVYsLws0Ejj7SSPJ7rJM2Xzo/edit?usp=sharing) @ [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 * [Abha Jha](https://docs.google.com/document/d/1OAvclGcZG4Cr8r36f26O3CCOrD3deI6bqNHePkwsk_c/edit?usp=drivesdk) @ [IntReview](https://github.com/arc9693/IntReview)
-* [Isha Agarwal](https://docs.google.com/document/d/1Y8BG8iAyH122kez1DqY3H3aW4MvUZ4KX5qo5mXx2mYk/edit?usp=drivesdk) @ [Instagram](https://github.com/lugnitdgp/Instagram)
+* [Isha Agarwal](https://docs.google.com/document/d/1Y8BG8iAyH122kez1DqY3H3aW4MvUZ4KX5qo5mXx2mYk/edit?usp=drivesdk) @ [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 * [Kaustuv Kanchan Chattopadhyay](https://docs.google.com/document/d/1IVB8u6aA8kxgBv9xIkxGMFSyuZFF_ptQ0DSF-zmtfpI/edit?usp=sharing) @ [ReviewBook](https://github.com/lugnitdgp/ReviewBook)
 * [Yash Vardhan Prasad](https://drive.google.com/file/d/1GQKtXXKRtRwtnkUmIyYMDxm3SNpSm6vL/view?usp=drivesdk) @ [Metal UI](https://github.com/lugnitdgp/Metal_UI)
 * [Rishav Raj Kumar](https://docs.google.com/document/d/1MnybafIu7QkGKcQio9WGoPcO5WoFn2QqvRnwZkvGr3s/edit?usp=drivesdk)  @ [ReviewBook](https://github.com/lugnitdgp/ReviewBook)
