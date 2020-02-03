@@ -11,7 +11,7 @@ sitemap:
 ## **List of Candidates who have Successfully Completed GSoC Heat 4.0**
 
 
-## Congratulations :tada:
+## Congratulations 
 
 * [Harshit Surana](https://docs.google.com/document/d/1mnLn1lTst-NLVpm2mL08m7FaOXQiAncGplnovH6xAp4/edit?usp=sharing) @ [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
 * [Nikhil Kumar](https://docs.google.com/document/d/1DqeHaYHZNTLtfFQqymjbHN8nWg-UTyAAIhgg4EUlFvE/edit?usp=sharing) @ [IntReview](https://github.com/arc9693/IntReview)
