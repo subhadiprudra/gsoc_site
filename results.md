@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Proposals for GSoC Heat 4.0
+title: Selected Proposals for GSoC Heat 5.0
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -8,7 +8,7 @@ sitemap:
 ---
 
 
-## **List of Candidates who have Successfully Completed GSoC Heat 4.0**
+## **List of Candidates who have Successfully Completed GSoC Heat 5.0**
 
 
 ## Congratulations 
